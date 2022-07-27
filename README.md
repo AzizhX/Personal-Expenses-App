@@ -3,5 +3,11 @@
 This is a Personal Expenses App project I made while following the course 
 "Flutter & Dart - The Complete Guide [2022 Edition]" by Maximilian Schwarzmüller. " on Udemy.
 
+## App Screenshots
+<img align="left" width="473" alt="Screen Shot 1443-12-28 at 8 14 56 PM" src="https://user-images.githubusercontent.com/44159263/181309088-5b0cc483-03a5-4711-b80e-d8ddc589b3e8.png">
+<img align="right" width="473" alt="Screen Shot 1443-12-28 at 8 15 02 PM" src="https://user-images.githubusercontent.com/44159263/181309347-d10b0c2b-eb78-4732-9b2c-a2d88a388ca0.png">
+<img width="473" alt="Screen Shot 1443-12-28 at 8 14 49 PM" src="https://user-images.githubusercontent.com/44159263/181309134-086c6c3a-c208-4ffa-8d28-54c1a2d9798d.png">
+
 ## App preview
-<img width="1439" alt="Screen Shot 1443-12-27 at 8 06 35 PM" src="https://user-images.githubusercontent.com/44159263/181300940-41c20d08-c56f-4707-a860-a87ee1908284.png">
+https://user-images.githubusercontent.com/44159263/181310487-1907ae50-8898-4a70-b366-bbfd030db015.mp4
+
